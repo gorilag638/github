@@ -1,0 +1,38 @@
+@charset "UTF-8";
+
+.footer{
+    display: inline-block;
+    margin-left: 10%;
+    font-weight: lighter;
+    background-attachment: fixed;
+}
+#lista{
+    background-size: 200px , 400px;
+    background-attachment: fixed;
+    background-image: url(img/folha.jpg);
+    border: 1px solid black;
+    margin-bottom: 1%;
+}
+#foto{
+    background-image: url(img/Seta\ direita.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: 1% 98%;
+    background-size: 70px;
+}
+h3{
+    background-attachment: fixed;
+    background-image: url(img/folha.jpg);
+    text-align: center;
+    border: 1px solid black;
+}
+#q1{
+    width: 150px;
+    height: 200px;
+    position: absolute;
+    border: 1px solid black;  
+    background-image: url(img/futurama.jpg);
+    background-repeat: no-repeat;
+    background-position: 2%;
+    background-size: 100%;
+}
